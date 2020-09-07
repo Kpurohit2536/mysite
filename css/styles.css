@@ -1,0 +1,42 @@
+body{
+  text-align: center;
+
+}
+h1{
+  margin-top: 0;
+ font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  margin-top: 0;
+  font-family: 'Merriweather', serif;
+}
+.topcontainer{
+    background-color: #cbf1f5;
+}
+
+.topcloud{
+  position:relative;
+  left:170px;
+  padding-top: 100px;
+}
+.bottomcloud{
+  position: absolute;
+}
+.mypic{
+  height: 150px;
+  width: 150px;
+}
+.code{
+  height: 150px;
+  width: 150px;
+}
+.soccer{
+  height: 150px;
+  width: 150px;
+}
